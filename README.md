@@ -227,4 +227,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update:  16 June Fixed broken url, now operational
+
+
+Update:  17.06.2025 05:42 The link is now available and working perfectly.
